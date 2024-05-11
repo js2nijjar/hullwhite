@@ -1,5 +1,5 @@
 # hullwhite
-Pricing European call and put options on zero-coupon bonds in Excel
+Pricing European call and put options on zero-coupon bonds using the one-factor Hull-White model in Excel
 ![Scan_20240511](https://github.com/js2nijjar/hullwhite/assets/141672092/ce3ce2cf-bd7c-4ba5-b46e-4b0902e20a7b)
 ![Scan_20240511 (2)](https://github.com/js2nijjar/hullwhite/assets/141672092/6b60ec98-c1ad-476b-b030-2308bb463440)
 ![Scan_20240511 (3)](https://github.com/js2nijjar/hullwhite/assets/141672092/b8f6b7de-85ad-412b-81b5-d37867993a4d)
